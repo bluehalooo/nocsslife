@@ -1,6 +1,6 @@
 var age = 0; //age up
 var jobpay = 0; // job pay
-var job = "" //just let the user choose any job with a textbox. you can use alert() if ur lazy
+var job = ""; //just let the user choose any job with a textbox. you can use alert() if ur lazy
 var money = 0;
 var AIDS = false; //at age up give a 1% chance of AIDS
 var AIDSTIME = 0;
